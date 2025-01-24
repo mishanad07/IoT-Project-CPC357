@@ -3,7 +3,7 @@
 
 **Summary:**
 
-This project implements an IoT system for monitoring soil moisture levels with the enhancement of rain detection. The system measures and logs soil moisture percentages before and after rainfall events. The collected data is then compared to analyze the impact of rain on soil moisture levels. A user-friendly dashboard is created on Vone IoT Cloud to visualize the data in real-time. Additionally, an email alert system is integrated to notify users when new data is received on the cloud.
+This project implements an IoT system for monitoring soil moisture levels with the enhancement of rain detection. The system measures and logs soil moisture percentages before and after rainfall events. The collected data will then be used to analyze the impact of rain on soil moisture levels. A user-friendly dashboard is created on Vone IoT Cloud to visualize the data in real time. Additionally, an email alert system is integrated to notify users when new data is received on the cloud.
 
 **Features:**
 
