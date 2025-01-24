@@ -1,5 +1,5 @@
 # IoT-Project-CPC357
-# Soil Moisture Detection System with Rain Enhancement
+# Soil Moisture Detection System with Rain Detection Enhancement
 
 **Summary:**
 
